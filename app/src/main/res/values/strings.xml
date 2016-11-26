@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="Sortby">Sortby</string>
+
+    <string name="popular"> Popular </string>
+    <string name="highest">Highest </string>
+    <string name="favourite">Favourite </string>
+    <string name="revenue">Revenue </string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="action_settings">Settings</string>
+
+
+</resources>
